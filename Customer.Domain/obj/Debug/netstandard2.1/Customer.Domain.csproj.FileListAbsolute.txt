@@ -1,0 +1,10 @@
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.deps.json
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\bin\Debug\netstandard2.1\Customer.Domain.pdb
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.csproj.AssemblyReference.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.AssemblyInfoInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.AssemblyInfo.cs
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.csproj.CoreCompileInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Domain\obj\Debug\netstandard2.1\Customer.Domain.pdb

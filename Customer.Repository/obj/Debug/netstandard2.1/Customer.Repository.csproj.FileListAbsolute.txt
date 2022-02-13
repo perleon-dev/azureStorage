@@ -1,0 +1,13 @@
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\bin\Debug\netstandard2.1\Customer.Repository.deps.json
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\bin\Debug\netstandard2.1\Customer.Repository.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\bin\Debug\netstandard2.1\Customer.Repository.pdb
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\bin\Debug\netstandard2.1\Customer.Domain.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\bin\Debug\netstandard2.1\Customer.Domain.pdb
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.csproj.AssemblyReference.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.AssemblyInfoInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.AssemblyInfo.cs
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.csproj.CoreCompileInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.csproj.CopyComplete
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Repository\obj\Debug\netstandard2.1\Customer.Repository.pdb

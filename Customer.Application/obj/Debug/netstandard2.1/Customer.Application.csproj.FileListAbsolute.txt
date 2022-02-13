@@ -1,0 +1,10 @@
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\bin\Debug\netstandard2.1\Customer.Application.deps.json
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\bin\Debug\netstandard2.1\Customer.Application.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\bin\Debug\netstandard2.1\Customer.Application.pdb
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.csproj.AssemblyReference.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.AssemblyInfoInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.AssemblyInfo.cs
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.csproj.CoreCompileInputs.cache
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.dll
+C:\Aplicaciones Personales\Patrones-de-disenio\Proyecto .Net\Customer.Application\obj\Debug\netstandard2.1\Customer.Application.pdb
